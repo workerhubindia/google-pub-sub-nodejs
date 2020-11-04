@@ -1,0 +1,4 @@
+1. create service accound through credentail (GCP)
+2. Paste json file as key.json in root directory
+3. install dotenv, @google-cloud/pubsub
+4. run node app.js
